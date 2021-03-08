@@ -9,6 +9,10 @@ public class hola {
 		
 		System.out.println("prueba rama 1");
 		
+		System.out.println("Soy la rama 2");
+		
+		System.out.println("prueba rama 2");
+		
 	}
 
 }
